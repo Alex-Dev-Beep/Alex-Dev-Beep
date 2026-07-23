@@ -1,1 +1,1 @@
-![Mandelbulb](https://raw.githubusercontent.com/rtryan98/OpenGL/master/docs/res/screens/mandelbulb.png)
+![Mandelbulb](https://github.com/Alex-Dev-Beep/Alex-Dev-Beep/blob/main/image.png)
